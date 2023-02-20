@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web development, Python, C**
 
-- 👨‍💻 All of my repositories are available at [https://github.com/Aryaman028?tab=repositories](https://github.com/Aryaman028?tab=repositories)
+- 👨‍💻 All of my repositories are available at  <a href="https://github.com/Aryaman028?tab=repositories">Aryaman's Github</a>
 
 - 📫 How to reach me **agrawalaryaman28@gmail.com**
 
